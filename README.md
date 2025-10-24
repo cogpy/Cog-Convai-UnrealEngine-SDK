@@ -24,6 +24,15 @@ The plugin is compatible with a wide range of character and avatar assets, inclu
 - **Text to Speech & Speech to Text**: Empower your characters with realistic speech capabilities.
 - **Dynamic Character Updates**: Modify characters’ personalities, backstories, and knowledge in real-time, based on in-game events.
 
+
+### OpenCog Multi-Agent Orchestration
+- **Autonomous Agent Behavior**: AI-driven NPCs that pursue goals independently using OpenCog-inspired architecture
+- **Multi-Agent Coordination**: Agents collaborate, compete, and share knowledge in complex scenarios
+- **Knowledge Representation**: AtomSpace-based semantic knowledge storage and reasoning
+- **Emergent Behavior**: Complex group behaviors emerge from simple agent rules
+- **Seamless Convai Integration**: Combine conversational AI with autonomous behavior for truly intelligent NPCs
+
+For detailed information on OpenCog integration, see [OPENCOG_INTEGRATION.md](OPENCOG_INTEGRATION.md).
 ### Coming Soon
 - **Expansion to Other Platforms**: Including iOS and Linux.
 - **Long-term Memory for Characters**: Enabling NPCs to remember past interactions for more immersive gameplay.
